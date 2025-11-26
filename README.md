@@ -52,3 +52,29 @@
 ## Dubbo架构
 
 ![image-20251126112031073](C:\Users\Qingfeng\AppData\Roaming\Typora\typora-user-images\image-20251126112031073.png)
+
+# Dubbo高级特性
+
+## 序列化
+
+![image-20251126193537737](C:\Users\Qingfeng\AppData\Roaming\Typora\typora-user-images\image-20251126193537737.png)
+
+## 地址缓存 
+
+![image-20251126194008742](C:\Users\Qingfeng\AppData\Roaming\Typora\typora-user-images\image-20251126194008742.png)
+
+## 超时
+
+## 重试 
+
+## 多版本
+
+通过注解实现
+
+![image-20251126200141994](C:\Users\Qingfeng\AppData\Roaming\Typora\typora-user-images\image-20251126200141994.png)
+
+## 负载均衡
+
+## 集群容错
+
+## 服务降级
